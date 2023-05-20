@@ -1,0 +1,87 @@
+body {
+    font-family: Raleway;
+    font-size: 16px;
+    background-color: #ffffff;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+section {
+    height: 100vh;
+    background-image: url(Phography/sally_1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+footer a {
+    margin-right: 5px;
+}
+
+a:hover {
+   color: #dddddd; 
+}
+
+.image_1 {
+    background-image: url(img/pexels-by-alexander-isreb.jpg)
+}
+
+.image_2 {
+    background-image: url(img/pexels-by-gaurav-kumar.jpg)
+}
+
+.image_3 {
+    background-image: url(img/pexels-by-hisham-yahya.jpg)
+}
+
+.image_4 {
+    background-image: url(img/pexels-by-magda-ehlers.jpg)
+}
+
+.image_5 {
+    background-image: url(img/pexels-by-martin-péchy.jpg)
+}
+
+.image_5 {
+    background-image: url(img/pexels-by-pavlo-luchkovski.jpg)
+}
+
+.image_6 {
+    background-image: url(img/pexels-by-sam-rana.jpg)
+}
+
+.image_7 {
+    background-image: url(img/pexels-by-sergey-okhrymenko.jpg)
+}
+
+.image_8 {
+    background-image: url(img/pexels-by-sofía-rabassa.jpg)
+}
+
+.image_9 {
+    background-image: url(img/pexels-by-willian-justen-de-vasconcellos.jpg)
+}
+
+.image_10 {
+    background-image: url(img/pexels-by-yasir-gürbüz.jpg)
+}
